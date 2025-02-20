@@ -2,7 +2,7 @@
 
 <p align="center"><img src="" alt="project-image"></p>
 
-<p id="description"><b>With this program you can calculate students' GPA and sort them from highest to lowest GPA.</b>b></p>
+<p id="description"><b>With this program you can calculate students' GPA and sort them from highest to lowest GPA.</b></p>
 
 <h2>Project Screenshots:</h2>
 
